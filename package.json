@@ -1,0 +1,27 @@
+{
+  "name": "weber",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laymanmu/weber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laymanmu/weber/issues"
+  },
+  "homepage": "https://github.com/laymanmu/weber#readme",
+  "engines": {
+    "node": ">=14"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
